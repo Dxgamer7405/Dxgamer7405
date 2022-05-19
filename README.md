@@ -1,8 +1,9 @@
-### Hi there 👋
+## I am Android Porter
 
-- 🔭 I’m currently working on Friday Night Funkin
-- 🌱 I’m currently learning Haxe and Lua
-- 💬 Ask me about ports
-- 📫 How to reach me: Dxgamer#1943
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: renember son,dying is gay
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigsaw-4277821&show_icons=true&theme=minimal)
+
+- Ask me about FNF.
+- You can Ask me to port almost any open source mod
+- I'm learning Haxe And Lua
+- How to reach me: My Discord: Dxgamer#1943
+- If you want to see me on YouTube: My YouTube channel: https://youtube.com/channel/Dxgamer7405
