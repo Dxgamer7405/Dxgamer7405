@@ -6,4 +6,4 @@
 - You can Ask me to port almost any open source mod
 - I'm learning Haxe And Lua
 - How to reach me: My Discord: Dxgamer#1943
-- If you want to see me on YouTube: My YouTube channel: https://youtube.com/channel/Dxgamer7405
+- If you want to see me on YouTube: My YouTube channel: https://youtube.com/c/Dxgamer7405
