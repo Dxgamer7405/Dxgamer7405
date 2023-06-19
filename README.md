@@ -4,6 +4,6 @@
 
 - Ask me about FNF.
 - You can Ask me to port almost any open source mod
-- I'm learning Haxe And Lua
-- How to reach me: My Discord: Dxgamer#1943
+- I'm learning Haxe And Lua,and in the future I intend to learn Python
+- How to reach me: My Discord: dx7405
 - If you want to see me on YouTube: My YouTube channel: https://youtube.com/c/Dxgamer7405
