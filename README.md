@@ -1,9 +1,8 @@
-## I am Android Porter
+## Translator for Town of Host Enhanced 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dxgamer7405&show_icons=true&theme=minimal)
 
-- Ask me about FNF.
-- You can Ask me to port almost any open source mod
-- I'm learning Haxe And Lua,and in the future I intend to learn Python
+
+- learning csharp
 - How to reach me: My Discord: dx7405
 - If you want to see me on YouTube: My YouTube channel: https://youtube.com/c/Dxgamer7405
